@@ -1,0 +1,15 @@
+.exp{
+	margin:0 auto;
+	width: 300px;
+	height: 100px;
+	background-color:red; 
+
+}
+	.p1{
+		border-style: dotted;
+		color:blue;
+	}
+	.p2{
+		color:pink;
+	}
+}

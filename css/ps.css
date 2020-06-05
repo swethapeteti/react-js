@@ -1,0 +1,30 @@
+		body{
+			background-color: #A3ECD1 ;
+		}
+		.card{
+			background-color: #92AFA4 ;
+			margin: 3% 10% 6% 10%;
+			display: flex;
+			justify-content: space-around;
+		}
+		
+		.tomandjerry{
+			margin: 7%;
+			border-style:solid;
+			border-width:5px;
+			width:400px;
+			height: 450px;
+			box-shadow: 10px 10px 10px 10px;
+			background-color: #625D5D;
+		}
+		img{
+
+			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+		.email
+		{
+			font-family: monospace;
+			border: 20px;
+		}
