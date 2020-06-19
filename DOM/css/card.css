@@ -1,0 +1,38 @@
+.root{
+    margin: 0% auto;
+   
+}
+.container{
+    background-color: #92AFA4 ;
+    margin:3% auto;
+    text-align: center;
+     display: flex;
+    
+
+}
+
+.artical1{
+    margin:5%;
+    border-style: solid;
+    border-width: 3px;
+    width:30%;
+    
+
+
+}
+.artical2{
+   margin:5%;
+   width:30%;
+   border-style: solid;
+    border-width: 3px;
+
+}
+
+/* media for mobile view */
+@media (min-device-width:320px) and (max-device-width:480px){
+    .artical1,
+    .artical2{
+        width: 100%;
+        margin: 3% 0;
+    }
+}

@@ -1,0 +1,99 @@
+body{
+		background-color: #A3ECD1 ;
+	}
+		.card{
+			background-color: #92AFA4 ;
+			margin: 3% 10% 6% 10%;
+			display: flex;
+			justify-content: space-around;
+			overflow: hidden;
+		}
+		
+		.tomandjerry{
+			margin: 7%;
+			border-style:solid;
+			border-width:5px;
+			width:400px;
+			height: 450px;
+			box-shadow: 10px 10px 10px 10px;
+			background-color: #625D5D;
+		}
+		img{
+
+			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+		.email
+		{
+			font-family: monospace;
+			border: 20px;
+		}
+		/*mobile view*/
+@media screen and (min-width: 320px) and (max-width:480px)
+{
+	body{
+		background-color: #11F37A ;
+	}
+	.card{
+			background-color: #5F9D7B  ;
+			margin: 2% 1% 5% 1%;
+			display: block;
+			justify-content: space-around;
+		}
+		
+		.tomandjerry{
+			margin: 3%;
+			border-style:solid;
+			border-width:5px;
+			width:275px;
+			height: 450px;
+			box-shadow: 5px 5px 5px 5px;
+			background-color: #625D5D;
+		}
+		img{
+
+			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+		.email
+		{
+			font-family: monospace;
+			border: 20px;
+		}
+} 
+/*tab view*/
+@media screen and (min-width: 481px) and (max-width:780px)
+{
+	body{
+		background-color:#78C2DF;
+	}
+	.card{
+			background-color: #6E848D ;
+			margin: 2% 1% 5% 1%;
+			display: block;
+			justify-content: space-around;
+		}
+		
+		.tomandjerry{
+			margin: 3%;
+			border-style:solid;
+			border-width:5px;
+			width:275px;
+			height: 450px;
+			box-shadow: 5px 5px 5px 5px;
+			background-color: #625D5D;
+		}
+		img{
+
+			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+		.email
+		{
+			font-family: monospace;
+			border: 20px;
+		}
+} 

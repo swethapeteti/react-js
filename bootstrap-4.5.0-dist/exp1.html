@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Java Script</title>
+</head>
+<body>
+	<h3>Heading</h3>
+	<p id="demo">before</p>
+	<button type="button" onclick="func()">click me!</button>
+	<script>
+		function func()
+		{
+			document.getElementById("demo").innerHTML="after";
+		}
+	</script>
+	<div>
+		<h2> My external java script file.</h2>
+		<p id="external">Hey I am inside</p>
+		<script src="js/exp1.js"></script>
+	</div>
+</body>
+</html>

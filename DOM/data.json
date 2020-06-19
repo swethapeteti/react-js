@@ -1,0 +1,24 @@
+{
+    "details":{
+
+        "name":"swetha",
+        "mobile":"8688551157",
+        "email":"swetha.p@gmail.com"
+    },
+    "mydata":[
+        { 
+           "images":"images/tom.jfif",
+           "name":"tom",
+            "mobile":"9100965114",
+            "email":"tom@gmail.com",
+            "profile":"resume/tomresume.html"
+        },
+        {
+           "images":"images/jerry.jfif",
+            "name":"jerry",
+            "mobile":"9100451235",
+            "email":"jerry@gmail.com",
+            "profile":"resume/jerryresume.html"
+        }
+    ]
+}

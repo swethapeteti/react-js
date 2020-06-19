@@ -1,0 +1,17 @@
+{
+	"founders":[
+		{
+			"name":"jack dorsey",
+			"product":"twitter"
+		},
+		{
+			"name":"larry page",
+			"product":"google"
+
+		},
+		{
+			"name":"mark zukerburg",
+			"product":"facebook"
+		},
+	]
+}

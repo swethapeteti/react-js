@@ -25,9 +25,42 @@ body{
 }
 img{
 
+	
+  	margin-left: auto;
+  	margin-right: auto;
+}
+/*tab view*/
+@media screen and (min-width: 481px) and (max-width: 780px){
+	body{
+	background-color: #A7FB9B ;
+}
+.main{
+	background-color:#C0D5BD  ;
+	display: block;
+	justify-content: space-around;
+	margin:5%; 
+
+}
+.left{
+	background-color: #A3A8A2 ;
+	box-shadow: 5px 5px 5px 5px;
+	margin:5%;
+	width: 30%;
+	height: 50%;
+	text-align: center;
+}
+.right{
+	background-color: #8EFB7E  ;
+	box-shadow: 6px 6px 6px 6px;
+	margin: 5%;
+	border-radius: 3%;
+	width: 50%;
+	padding: 3%;
+}
+img{
+
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
 }
-
- 
+}
